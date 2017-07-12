@@ -1,0 +1,16 @@
+<resources>
+    <string name="app_name">AboutMe</string>
+
+    <string name="sz">
+        对于这次使用的个人简历制作总体来说一般般，勉强算及格。
+        在这次制作简历中使用了状态变色,自定义圆形图片,取消actionbar，recyclerview多条目布局，
+        其中使用xrecyclerview，baserecyclerAdapter分别对recyclerview和adapter进行封装，使得逻辑简单，
+        完成了上拉刷新，下拉加载等功能。在这个简介中可以点击手机号，联系我；然后弹出自定义Dialog，其中可以改变所有颜色字体。
+        可以调转网页，可以发送邮件。
+        为了更加了解我的知识情况可以点击我的blog链接，最后面使用的是流布局标签，还有一个是生成带logo的二维码图片；
+        如果对我感兴趣，可以添加我为好友，进行详聊，也可以找个合适的时间找个合适地方慢慢聊~~~
+        期待成为贵公司的一部分~~~~
+
+    </string>
+
+</resources>
